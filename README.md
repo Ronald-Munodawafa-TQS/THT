@@ -87,7 +87,7 @@ Follow these steps:
     - recursive function that reverses a string 
     - a recursive function that, given a number n, prints out the first n Fibonacci numbers (Fibonacci numbers are a sequence where each number is the sum of the previous two - 0 1 1 2 3 5 8...)
 
-```
+``` java
 public class recursion {
  
 	public static void main(String[] args) {
@@ -152,7 +152,9 @@ Follow these steps:
 - The function should return "THE QUICK BROWN DOG JUMPED OVER THE LAZY FOX." When the following are passed as arguments:
     - The string to be encoded: "GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK."
     - The shift value: 39
-```
+
+
+``` typescript
 //TypeScript Type: Alphabet
 type Alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
