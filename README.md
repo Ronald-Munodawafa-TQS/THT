@@ -115,7 +115,7 @@ public class recursion {
 		System.out.println("String to be passed in Recursive Function: "+myStr.substring(1));
 		return reverseString(myStr.substring(1)) + myStr.charAt(0);}
 
-	public static void function(String[] args) {
+	public static <T> void function(T maxNumber) {
 		// Set it to the number of elements you want in the Fibonacci Series
 		int maxNumber = 10; 
 		int previousNumber = 0;
