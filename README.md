@@ -104,6 +104,8 @@ class Solution:
 ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 
+```
+
 ### Option 2: Java Task
 
 Compulsory Task 1
@@ -113,7 +115,6 @@ Follow these steps:
     - recursive function that reverses a string 
     - a recursive function that, given a number n, prints out the first n Fibonacci numbers (Fibonacci numbers are a sequence where each number is the sum of the previous two - 0 1 1 2 3 5 8...)
     
-```
 
 ``` java
 public class recursion {
