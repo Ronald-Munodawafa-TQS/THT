@@ -112,6 +112,8 @@ Follow these steps:
 - In a file called recursion.java, create:
     - recursive function that reverses a string 
     - a recursive function that, given a number n, prints out the first n Fibonacci numbers (Fibonacci numbers are a sequence where each number is the sum of the previous two - 0 1 1 2 3 5 8...)
+    
+```
 
 ``` java
 public class recursion {
@@ -202,6 +204,8 @@ def is_palindrome(x)
             true
         end
     end
+
+```
 
 
 ### Option 4: TypeScript Task
