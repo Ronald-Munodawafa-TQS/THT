@@ -24,7 +24,7 @@ We have built an online course platform that allows human code review to be scal
 ## Being a Mentor
 
 In this role, you will be joining our team of specialist mentors. Our mentors are elite, world-leading programming experts with a skill set that is at 
-the intersection of technical coding skills. Reviewers work with leading tech partners from around the world in fields as diverse as technical education, 
+the intersection of technical coding skills. Mentors work with leading tech partners from around the world in fields as diverse as technical education, 
 developer assessment, and tech team peer reviews.
 
 Pursuing reviewing as an opportunity provides a fulfilling way of specializing yourself further while garnering international work experience. It promises a 
