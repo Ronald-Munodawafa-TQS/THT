@@ -67,21 +67,21 @@ documentation.
 
 - Please present your review in a Markdown file.
 - Please refer to line numbers in your review.
-- Please review the hypothetical student sumbissions by commenting on
+- Please review the hypothetical student submissions by commenting on
     - Correctness
     - Efficiency
     - Style
     - Documentation
-- Please comment on the postive aspects and improvements that are necessary while being encouraging.
+- Please comment on the positive aspects and improvements that are necessary while being encouraging.
 
 ### Option 1: Python Task
 
 Compulsory Task 1
 Follow these steps:
 
-- In a file called anagram.py, create:
+- In a file called `anagram.py`, create:
 
-- Given an array of strings strs, group the anagrams together. 
+- Given an array of strings `strs`, group the anagrams together. 
 - An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
     - You can return the answer in any order.
     - Strings consists of lowercase English letters.
@@ -111,9 +111,9 @@ print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 Compulsory Task 1
 Follow these steps:
 
-- In a file called recursion.java, create:
+- In a file called `recursion.java`, create:
     - recursive function that reverses a string 
-    - a recursive function that, given a number n, prints out the first n Fibonacci numbers (Fibonacci numbers are a sequence where each number is the sum of the previous two - 0 1 1 2 3 5 8...)
+    - a recursive function that, given a number `n`, prints out the first `n` Fibonacci numbers (Fibonacci numbers are a sequence where each number is the sum of the previous two - `0 1 1 2 3 5 8...`)
     
 
 ``` java
@@ -214,11 +214,11 @@ def is_palindrome(x)
 Compulsory Task 2
 Follow these steps:
 
-- In a file named caesar.ts, please create a function that implements the Caesar Cypher by taking 2 arguments, the string that is to be encoded and the shift value used for the encryption.
-- For more information on what a Cypher Cipher is, please look at the following [resource](https://en.wikipedia.org/wiki/Caesar_cipher)
-- The function should return "THE QUICK BROWN DOG JUMPED OVER THE LAZY FOX." When the following are passed as arguments:
-    - The string to be encoded: "GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK."
-    - The shift value: 39
+- In a file named `caesar.ts`, please create a function that implements the Caesar Cypher by taking 2 arguments: the string that is to be encoded and the shift value used for the encryption.
+- For more information on what a Caesar Cipher is, please look at the following [resource](https://en.wikipedia.org/wiki/Caesar_cipher)
+- The function should return `"THE QUICK BROWN DOG JUMPED OVER THE LAZY FOX."` when the following are passed as arguments:
+    - The string to be encoded: `"GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK."`
+    - The shift value: `39`
 
 
 ``` typescript
@@ -288,7 +288,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 ## Section C: Code Challenge
 
 - We suggest that you implement your solution in either Python, Java, Ruby or TypeScript.
-- You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
+- You're more than welcome to use any programming language and paradigm that you fancy, as long as your solution is idiomatic.
 - You are required to include a comprehensive test suite for your solution. Be sure to include edge cases.
 - Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
 - Please include a Markdown report that specifies and justifies the _worst-case **space** complexity_ of your solution.
